@@ -6,8 +6,6 @@ import org.junit.jupiter.api.Test;
 public class RadioTest {
 
 
-
-
     @Test
     public void setCurrentStation_ValidStation() {
         Radio radio = new Radio();
